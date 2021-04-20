@@ -11,8 +11,8 @@ My name is **Taisia Sakharova**.
 
 ###  List of technologies
 
-My main programming languages are Python 3 and JavaScript.But i can try my best in statistics, math and different manipulations with data. I also fell myself comfortable with C++ in Arduino.
-I can code in Sratch! It's my best epic skill.
+My main programming languages are Python 3 and JavaScript. But i can try my best in statistics, math and different manipulations with data. I also fell myself comfortable with C++ in Arduino.
+I can code in Scratch! It's my best epic skill.
 
 And i'm in love with vizualizations!
 

@@ -2,7 +2,7 @@
 
 Hi!📈
 
-My name is **Taisia Sakharova**.
+My name is **Tais**.
 
 *Pedagogical student
 *Project lover
